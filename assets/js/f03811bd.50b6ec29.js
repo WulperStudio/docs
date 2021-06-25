@@ -1,0 +1,1 @@
+(self.webpackChunkwulper_studio_docs=self.webpackChunkwulper_studio_docs||[]).push([[899],{6313:function(s){"use strict";s.exports=JSON.parse('{"allTagsPath":"/docs/blog/tags","slug":"hola","name":"hola","count":1,"permalink":"/docs/blog/tags/hola"}')}}]);
