@@ -6,7 +6,7 @@ module.exports = {
   title: 'Wulper Studio Docs',
   tagline: 'documentacion interna Wulper Studio Sofware Factory',
   url: 'https://wulperstudio.github.io/docs/',
-  baseUrl: '/',
+  baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
