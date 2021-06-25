@@ -16,7 +16,7 @@ module.exports = {
     navbar: {
       title: 'Wulper Studio Docs',
       logo: {
-        alt: 'Wulper Studio',
+        alt: 'Wulper Studio Docs',
         src: 'img/logo.svg',
       },
       items: [
