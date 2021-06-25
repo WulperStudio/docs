@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'Wulper Studio Docs',
   tagline: 'documentacion interna Wulper Studio Sofware Factory',
-  url: 'https://wulperstudio.github.io/docs/',
+  url: 'https://wulperstudio.github.io',
   baseUrl: '/docs/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -27,7 +27,7 @@ module.exports = {
           label: 'Tutorial',
         },
         {
-          to: '/blog',
+          to: '/docs/blog',
           label: 'Blog',
           position: 'left'
         },
@@ -41,7 +41,7 @@ module.exports = {
           items: [
             {
               label: 'Tutorial',
-              to: '/docs/intro',
+              to: '/docs/docs/intro',
             },
           ],
         },
@@ -67,7 +67,7 @@ module.exports = {
           items: [
             {
               label: 'Blog',
-              to: '/blog',
+              to: '/docs/blog',
             },
             {
               label: 'GitHub',
